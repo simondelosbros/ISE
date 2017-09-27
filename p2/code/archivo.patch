@@ -1,0 +1,9 @@
+--- archivo.cpp	2017-04-18 18:50:11.527052583 +0200
++++ archivo_bueno.cpp	2017-04-18 16:48:56.187431476 +0200
+@@ -3,5 +3,5 @@
+ using namespace std;
+ 
+ int main(){
+-	cout << "Hola majskdjhaskfjhsagjkfhajskundo!!!" << endl;
++	cout << "Hola mundo!!!" << endl;
+ }
